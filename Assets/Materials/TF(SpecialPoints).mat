@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Toon+Fresnal
-  m_Shader: {fileID: -6465566751694194690, guid: 16f55ea4ad6f4874f86d6dad4b09c8ed, type: 3}
+  m_Name: TF(SpecialPoints)
+  m_Shader: {fileID: -6465566751694194690, guid: 17e3e162eadaf7142bad21658a50d60f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -97,11 +97,11 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _FresnelPower: 2.18
+    - _FresnelPower: 1.4
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Glowiness: 0.46
+    - _Glowiness: 1.3
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -119,10 +119,10 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 1, g: 0.748618, b: 0, a: 1}
+    - _Color: {r: 1, g: 0, b: 0.9254904, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FresnelColour: {r: 1, g: 1, b: 1, a: 0}
-    - _Glow_Colour: {r: 1, g: 0.7490196, b: 0, a: 0}
+    - _Glow_Colour: {r: 1, g: 0.4509434, b: 0.9049408, a: 0}
     - _MinMax: {r: 0.2, g: 1, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
